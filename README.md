@@ -1,5 +1,5 @@
-![Ankit Parekh Banner Image](./gitbanner.png)
-<!-- <h2 align='center'>Ankit Parekh @ Laxmena</h2>
+![Ankit Parekh Banner Image](./git-banner.jpeg)
+<!-- <h2 align='center'>Ankit Parekh</h2>
 <p align='center'><b>Frontend Programmer</b></p> -->
 
 <h2>Hey! 👋</h2>
