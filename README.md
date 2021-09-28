@@ -1,4 +1,4 @@
-![Ankit Parekh Banner Image](./git-banner.jpeg)
+![Ankit Parekh Banner Image](./gitbanner.png)
 <!-- <h2 align='center'>Ankit Parekh</h2>
 <p align='center'><b>Frontend Programmer</b></p> -->
 
